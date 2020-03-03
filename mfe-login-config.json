@@ -5,7 +5,7 @@
     "clients":{
         "cliente-login":{
           "loaded":false,
-          "src":"http://10.252.1.70:8080/main.6b462a000788a76069cd.js",
+          "src":"http://10.252.1.70:8080/main.442b827c40181beb18a5.js",
           "element":"cliente-login",
           "route":"/login"
        }
