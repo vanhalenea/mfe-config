@@ -11,7 +11,7 @@
        },
        "cliente-login":{
           "loaded":false,
-          "src":"http://10.252.1.70:8080/main.6b462a000788a76069cd.js",
+          "src":"http://192.168.0.14:8080/main.6b462a000788a76069cd.js",
           "element":"cliente-login",
           "route":"/login",
            "specialOutledId":"login-content"
