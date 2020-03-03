@@ -3,6 +3,13 @@
     "outletId":"content",
     "preload":false,
     "clients":{
+       "client-shared":{
+          "loaded":false,
+          "src":"http://10.252.1.70:8081/main.74833db419df6a7c17ad.js",
+          "element":"cliente-shared",
+          "route":"",
+          "preload": true
+       },
        "client-a":{
           "loaded":false,
           "src":"assets/micro-frontends/client-a/main.js",
@@ -20,13 +27,6 @@
           "src":"assets/micro-frontends/client-c/main.js",
           "element":"client-c",
           "route":"/client-c"
-       },
-        "client-shared":{
-          "loaded":false,
-          "src":"http://10.252.1.70:8081/main.74833db419df6a7c17ad.js",
-          "element":"cliente-shared",
-          "route":"",
-          "preload": true
        }
     }
  }
