@@ -5,7 +5,7 @@
     "clients":{
        "client-shared":{
           "loaded":false,
-          "src":"http:///192.168.0.14:8081/main.477a94b882b0857a8b25.js",
+          "src":"http:///10.252.1.70:8081/main.477a94b882b0857a8b25.js",
           "element":"cliente-shared",
           "route":"",
           "preload": true
