@@ -6,7 +6,7 @@
        "client-shared":{
           "loaded":false,
           "src":["http:///10.252.1.70:8081/main.477a94b882b0857a8b25.js",
-                 "http:///10.252.1.70:8081/styles.3d47f6d977cc15536e63.css"],
+                 "http:///10.252.1.70:8081/styles.6ab50ac0f951263a8d17.css"],
           "element":"cliente-shared",
           "route":"",
           "preload": true
