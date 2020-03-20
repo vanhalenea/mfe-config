@@ -3,7 +3,7 @@
     "outletId":"login-content",
     "preload":false,
     "clients":{
-        "cliente-login":{
+        "login-client":{
           "loaded":false,
           "src":["http:///localhost:8080/main.fec90b923608869803a1.js",
                 "http:///localhost:8080/polyfills.3383ee1b150ab2807482.js",
