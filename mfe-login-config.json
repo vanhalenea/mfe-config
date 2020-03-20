@@ -5,8 +5,10 @@
     "clients":{
         "cliente-login":{
           "loaded":false,
-          "src":"http:///10.252.1.70:8080/main.5ec985c905af8885448a.js",
-          "element":"cliente-login",
+          "src":["http:///localhost:8080/main.fec90b923608869803a1.js",
+                "http:///localhost:8080/polyfills.3383ee1b150ab2807482.js",
+                "http:///localhost:8080/styles.09e2c710755c8867a460.css"],
+          "element":"login-client",
           "route":"/login"
        }
     }
