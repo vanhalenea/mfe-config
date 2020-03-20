@@ -7,8 +7,7 @@
           "loaded":false,
           "src":["http:///localhost:8080/main.fec90b923608869803a1.js",
                 "http:///localhost:8080/polyfills.3383ee1b150ab2807482.js",
-                "http:///localhost:8080/styles.09e2c710755c8867a460.css",
-                "http:///localhost:8080/scripts.9e14831f9543e5cbf443.js"],
+                "http:///localhost:8080/styles.09e2c710755c8867a460.css"],
           "element":"login-client",
           "route":"/login"
        }
