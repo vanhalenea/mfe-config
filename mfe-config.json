@@ -10,7 +10,7 @@
                 "http://localhost:8081/styles.09e2c710755c8867a460.css"],
           "element":"layout-client",
           "route":"",
-          "preload": true
+          "preload": true,
        }
     }
  }
