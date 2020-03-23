@@ -1,4 +1,4 @@
-{
+{ 
     "initialRoute":"/login",
     "outletId":"login-content",
     "preload":false,
