@@ -3,31 +3,14 @@
     "outletId":"content",
     "preload":false,
     "clients":{
-       "client-shared":{
+        "layout-client":{
           "loaded":false,
-          "src":["http:///10.252.1.70:8081/main.0cd15c3eda73de411f14.js",
-                 "http:///10.252.1.70:8081/styles.6ab50ac0f951263a8d17.css"],
-          "element":"cliente-shared",
+          "src":["http:///10.252.1.70:8081/main.77a3d8e760a35ac17371.js",
+                 "http:///10.252.1.70:8081/polyfills.3383ee1b150ab2807482.js",
+                "http:///10.252.1.70:8081/styles.09e2c710755c8867a460.css"],
+          "element":"layout-client",
           "route":"",
           "preload": true
-       },
-       "client-a":{
-          "loaded":false,
-          "src":"assets/micro-frontends/client-a/main.js",
-          "element":"client-a",
-          "route":"/client-a"
-       },
-       "client-b":{
-          "loaded":false,
-          "src":"assets/micro-frontends/client-b/main.js",
-          "element":"client-b",
-          "route":"/client-b"
-       },
-       "client-c":{
-          "loaded":false,
-          "src":"assets/micro-frontends/client-c/main.js",
-          "element":"client-c",
-          "route":"/client-c"
        }
     }
  }
