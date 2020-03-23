@@ -1,6 +1,6 @@
 {
     "initialRoute":"/login",
-    "outletId":"content",
+    "outletId":"mfe-content",
     "preload":false,
     "clients":{
         "layout-client":{
