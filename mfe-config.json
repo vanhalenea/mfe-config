@@ -5,9 +5,9 @@
     "clients":{
         "layout-client":{
           "loaded":false,
-          "src":["http://localhost:8081/main.7ecd7fa0a3e833fc06c8.js",
-                 "http://localhost:8081/polyfills.3383ee1b150ab2807482.js",
-                "http://localhost:8081/styles.09e2c710755c8867a460.css"],
+          "src":["http://localhost:8081/main.a1abb6d0163a48e0ab73.js",
+                 "http://localhost:8081/polyfills.996c89bcee0253a09a60.js",
+                "http://localhost:8081/styles.618830ff6a10e15e433e.css"],
           "element":"layout-client",
           "route":"",
           "preload": true
