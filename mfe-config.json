@@ -5,12 +5,20 @@
     "clients":{
         "layout-client":{
           "loaded":false,
-          "src":["http://localhost:8081/main.a1abb6d0163a48e0ab73.js",
-                 "http://localhost:8081/polyfills.996c89bcee0253a09a60.js",
-                "http://localhost:8081/styles.618830ff6a10e15e433e.css"],
+          "src":["http://localhost:8081/main.fa5627dd28895df67899.js",
+                 "http://localhost:8081/polyfills.6437e610189078b4be16.js",
+                "http://localhost:8081/styles.09e2c710755c8867a460.css"],
           "element":"layout-client",
           "route":"",
           "preload": true
+       },
+        "starter-client":{
+          "loaded":false,
+          "src":["http://localhost:8083/main.fa5627dd28895df678991.js",
+                 "http://localhost:8083/polyfills.6437e610189078b4be161.js",
+                "http://localhost:8083/styles.09e2c710755c8867a4601.css"],
+          "element":"starter-client",
+          "route":""
        }
     }
  }
