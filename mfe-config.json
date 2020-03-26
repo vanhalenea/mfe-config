@@ -18,7 +18,7 @@
                  "http://localhost:8080/polyfills.6437e610189078b4be16.js",
                 "http://localhost:8080/styles.09e2c710755c8867a460.css"],
           "element":"starter-client",
-          "route":""
+          "route":"/modulo-starter"
        }
     }
  }
