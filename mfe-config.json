@@ -5,18 +5,18 @@
     "clients":{
         "layout-client":{
           "loaded":false,
-          "src":["http://localhost:8081/main.25fe9d6257ae1610cd6e.js",
-                 "http://localhost:8081/polyfills.6437e610189078b4be16.js",
-                "http://localhost:8081/styles.09e2c710755c8867a460.css"],
+          "src":["http://192.168.0.19:8081/main.25fe9d6257ae1610cd6e.js",
+                 "http://192.168.0.19:8081/polyfills.6437e610189078b4be16.js",
+                "http://192.168.0.19:8081/styles.09e2c710755c8867a460.css"],
           "element":"layout-client",
           "route":"",
           "preload": true
        },
         "starter-client":{
           "loaded":false,
-          "src":["http://localhost:8080/main.5d553fab5a6774344f49.js",
-                 "http://localhost:8080/polyfills.6437e610189078b4be16.js",
-                "http://localhost:8080/styles.09e2c710755c8867a460.css"],
+          "src":["http://192.168.0.19:8080/main.5d553fab5a6774344f49.js",
+                 "http://192.168.0.19:8080/polyfills.6437e610189078b4be16.js",
+                "http://192.168.0.19:8080/styles.09e2c710755c8867a460.css"],
           "element":"starter-client",
           "route":"/modulo-starter"
        }
