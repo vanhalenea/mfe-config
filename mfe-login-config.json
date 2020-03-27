@@ -5,8 +5,8 @@
     "clients":{
         "login-client":{
           "loaded":false,
-          "src":["http:///localhost:8082/main.10a673c79e92716a7cf0.js",
-                "http:///localhost:8082/polyfills.3383ee1b150ab2807482.js",
+          "src":["http:///localhost:8082/main.ab653a31a2deb84c3697.js",
+                "http:///localhost:8082/polyfills.6437e610189078b4be16.js",
                 "http:///localhost:8082/styles.09e2c710755c8867a460.css"],
           "element":"login-client",
           "route":"/login"
