@@ -5,7 +5,7 @@
     "clients":{
         "layout-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8081/main.11b26cd7414cdeee9f45.js",
+          "src":["http://192.168.0.19:8081/main.4b402d79005276a4824a.js",
                  "http://192.168.0.19:8081/polyfills.6437e610189078b4be16.js",
                 "http://192.168.0.19:8081/styles.09e2c710755c8867a460.css"],
           "element":"layout-client",
