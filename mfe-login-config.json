@@ -5,7 +5,7 @@
     "clients":{
         "login-client":{
           "loaded":false,
-          "src":["http:///192.168.0.19:8082/main.cec0af96e319901b13d1.js",
+          "src":["http:///192.168.0.19:8082/main.6f662a644937c458807c.js",
                 "http:///192.168.0.19:8082/polyfills.dabeb5a47f28f6833d38.js",
                 "http:///192.168.0.19:8082/styles.09e2c710755c8867a460.css"],
           "element":"login-client",
