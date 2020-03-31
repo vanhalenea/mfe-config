@@ -14,7 +14,7 @@
        },
         "starter-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8080/main.2ce88505c745da570f15.js",
+          "src":["http://192.168.0.19:8080/main.9ab97977cc278ad4aee5.js",
                  "http://192.168.0.19:8080/polyfills.6437e610189078b4be16.js",
                 "http://192.168.0.19:8080/styles.09e2c710755c8867a460.css"],
           "element":"starter-client",
