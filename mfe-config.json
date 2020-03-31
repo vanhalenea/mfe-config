@@ -5,9 +5,9 @@
     "clients":{
         "layout-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8081/main.64c2575ddc769dd333b5.js",
-                 "http://192.168.0.19:8081/polyfills.66483a6a3529e9d6ca91.js",
-                "http://192.168.0.19:8081/styles.2fc9ab79dcb3fec4857d.css"],
+          "src":["http://192.168.0.19:8081/main.d70d27d186512c7f474e.js",
+                 "http://192.168.0.19:8081/polyfills.af0fc68cedc2e19ab17d.js",
+                "http://192.168.0.19:8081/styles.345d17e52270854a5d8b.css"],
           "element":"layout-client",
           "route":"",
           "preload": true
