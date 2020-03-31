@@ -5,7 +5,7 @@
     "clients":{
         "layout-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8081/main.c6bf8c19dd7066e19170.js",
+          "src":["http://192.168.0.19:8081/main.b62b91bec5c788f8f32b.js",
                  "http://192.168.0.19:8081/polyfills.dabeb5a47f28f6833d38.js",
                 "http://192.168.0.19:8081/styles.d047468a0a26753c1cd0.css"],
           "element":"layout-client",
@@ -14,7 +14,7 @@
        },
         "starter-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8080/main.cb5829b6dd7452286816.js",
+          "src":["http://192.168.0.19:8080/main.c6bf8c19dd7066e19170.js",
                  "http://192.168.0.19:8080/polyfills.6437e610189078b4be16.js",
                 "http://192.168.0.19:8080/styles.09e2c710755c8867a460.css"],
           "element":"starter-client",
