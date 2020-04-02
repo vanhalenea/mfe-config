@@ -5,9 +5,9 @@
     "clients":{
         "login-client":{
           "loaded":false,
-          "src":["http:///192.168.0.19:8082/main.2ce99c3c5154c46a5b4f.js",
-                "http:///192.168.0.19:8082/polyfills.918c2a2491ac0633db66.js",
-                "http:///192.168.0.19:8082/styles.09e2c710755c8867a460.css"],
+          "src":["http:///192.168.0.19:8082/main.de4f8c693814e24edf74.js",
+                "http:///192.168.0.19:8082/polyfills.53306a8a4f118474b356.js",
+                "http:///192.168.0.19:8082/styles.c5d7b169a33113a340d3.css"],
           "element":"login-client",
           "route":"/login"
        }
