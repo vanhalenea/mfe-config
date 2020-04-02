@@ -5,18 +5,18 @@
     "clients":{
         "layout-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8081/main.b62b91bec5c788f8f32b.js",
-                 "http://192.168.0.19:8081/polyfills.dabeb5a47f28f6833d38.js",
-                "http://192.168.0.19:8081/styles.d047468a0a26753c1cd0.css"],
+          "src":["http://192.168.0.19:8081/main.090a7df8d28dc38b5979.js",
+                 "http://192.168.0.19:8081/polyfills.04b5b913924ad33b245c.js",
+                "http://192.168.0.19:8081/styles.3d30c3c5fe696a2bec9c.css"],
           "element":"layout-client",
           "route":"",
           "preload": true
        },
         "starter-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8080/main.dae43374b3fba8220604.js",
-                 "http://192.168.0.19:8080/polyfills.6437e610189078b4be16.js",
-                "http://192.168.0.19:8080/styles.09e2c710755c8867a460.css"],
+          "src":["http://192.168.0.19:8080/main.3da0ad4bd954b6667aa7.js",
+                 "http://192.168.0.19:8080/polyfills.04b5b913924ad33b245c.js",
+                "http://192.168.0.19:8080/styles.283e47253775fa80465f.css"],
           "element":"starter-client",
           "route":"/modulo-starter"
        }
