@@ -19,6 +19,15 @@
                 "http://192.168.0.19:8080/styles.283e47253775fa80465f.css"],
           "element":"starter-client",
           "route":"/modulo-starter"
+       },
+        "shared-client":{
+          "loaded":false,
+          "src":["http://192.168.0.19:8084/main.c2bf0dff2be74f869217.js",
+                 "http://192.168.0.19:8084/polyfills.04b5b913924ad33b245c.js",
+                "http://192.168.0.19:8084/styles.e68af33383046ac195ad.css"],
+          "element":"shared-client",
+          "route":"",
+           "preload": true
        }
     }
  }
