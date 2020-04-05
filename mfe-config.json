@@ -14,9 +14,9 @@
        },
         "starter-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8080/main.4d186fcadeaaf655588d.js",
+          "src":["http://192.168.0.19:8080/main.c478253ee669c3b75b1f.js",
                  "http://192.168.0.19:8080/polyfills.3bd4321dc2a4a07946a5.js",
-                "http://192.168.0.19:8080/styles.09e2c710755c8867a460.css"],
+                "http://192.168.0.19:8080/styles.971332f63435e6c6e0ca.css"],
           "element":"starter-client",
           "route":"/modulo-starter"
        },
