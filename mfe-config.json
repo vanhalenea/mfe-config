@@ -14,9 +14,9 @@
        },
         "starter-client":{
           "loaded":false,
-          "src":["http://192.168.0.19:8080/main.c478253ee669c3b75b1f.js",
-                 "http://192.168.0.19:8080/polyfills.3bd4321dc2a4a07946a5.js",
-                "http://192.168.0.19:8080/styles.957cfafc1dbeeb268f6f.css"],
+          "src":["http://192.168.0.19:8080/main.271d9f7e19070eb03576.js",
+                 "http://192.168.0.19:8080/polyfills.52775eda49a2ce845600.js",
+                "http://192.168.0.19:8080/styles.071d9289202d8e8a7867.css"],
           "element":"starter-client",
           "route":"/modulo-starter"
        },
